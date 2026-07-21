@@ -28,6 +28,5 @@
 ## 🎓 Certifications
 | Certification | Issuing Organization | Type | Verification |
 |---------------|----------------------|------|--------------|
-| AWS Certified Solutions Architect – Associate | AWS | Cloud Computing | [Verify](https://your-verification-link.com) |
 | Decoding DevOps – From Basics to Advanced Projects with AI | Udemy | DevOps | [Verify](https://www.udemy.com/certificate/UC-398102bc-3cce-4488-a8e7-3e2210182a7d/) |
 
