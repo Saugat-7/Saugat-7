@@ -22,3 +22,9 @@
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Boto3](https://img.shields.io/badge/Boto3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
+
+## 🎓 Certifications
+| **Decoding DevOps – From Basics to Advanced Projects with AI
+** | Course Completion | [👤 View Certificate](https://github.com/Saugat-7/Decoding-DevOps-From-Basics-to-Advanced-Projects-with-AI.git) 
