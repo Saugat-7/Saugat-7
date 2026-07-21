@@ -11,7 +11,7 @@
 | **GitOps Project** | Automation & Integration | [👤 View Project](https://github.com/Saugat-7/GitOps-project.git) |
 | **Terraform Project** | Automation & Integration | [👤 View Project](https://github.com/Saugat-7/Terraform-Project.git) |
 | **Continuous Integration and Management** | Automation & Integration | [👤 View Project](https://github.com/Saugat-7/Continuous-Integration-and-Management.git) |
-| **AI CLoud Cost Defective** | Reduces Cost Billing | [👤 View Project](https://github.com/Saugat-7/AI-Cloud-Cost-Detective.git) 
+| **AI Cloud Cost Defective** | Reduces Cost Billing | [👤 View Project](https://github.com/Saugat-7/AI-Cloud-Cost-Detective.git) 
 
 ---
 
