@@ -7,10 +7,10 @@
 | Project | Key Focus | Repository |
 |--------|-----------|------------|
 | **AWS Cloud FOR WEB SETUP:**| Lift and Shift Setup | [👤 View Project](https://github.com/Saugat-7/AWS-Cloud-FOR-WEB-SETUP-Lift-and-Shift-Setup-.git) |
-| **•	Continous Integration Using Jenkins ,Nexus and SolarQube& Slack** | Automation for Build and Testing| [👤 View Project](https://github.com/Saugat-7/Continous-Integration-Using-Jenkins-Nexus-and-SolarQube-Slack.git) |
+| **Continous Integration Using Jenkins ,Nexus and SolarQube& Slack** | Automation for Build and Testing| [👤 View Project](https://github.com/Saugat-7/Continous-Integration-Using-Jenkins-Nexus-and-SolarQube-Slack.git) |
 | **GitOps Project** | Automation & Integration | [👤 View Project](https://github.com/Saugat-7/GitOps-project.git) |
 | **Terraform Project** | Automation & Integration | [👤 View Project](https://github.com/Saugat-7/Terraform-Project.git) |
-| **Continuous Integration and Management)** | Automation & Integration | [👤 View Project](https://github.com/Saugat-7/Continuous-Integration-and-Management.git) |
+| **Continuous Integration and Management** | Automation & Integration | [👤 View Project](https://github.com/Saugat-7/Continuous-Integration-and-Management.git) |
 
 ---
 
