@@ -10,7 +10,7 @@
 | **Continous Integration Using Jenkins ,Nexus and SolarQube& Slack** | Automation for Build and Testing| [👤 View Project](https://github.com/Saugat-7/Continous-Integration-Using-Jenkins-Nexus-and-SolarQube-Slack.git) |
 | **GitOps Project** | Automation & Integration | [👤 View Project](https://github.com/Saugat-7/GitOps-project.git) |
 | **Terraform Project** | Automation & Integration | [👤 View Project](https://github.com/Saugat-7/Terraform-Project.git) |
-| **Continuous Delivery of Java application ** | Automation & Integration | [👤 View Project](https://github.com/Saugat-7/Continuous-Integration-and-Management.git)|
+| **Continuous Delivery of Java application** | Automation & Integration | [👤 View Project](https://github.com/Saugat-7/Continuous-Integration-and-Management.git)|
 | **AI Cloud Cost Defective** | Reduces Cost Billing | [👤 View Project](https://github.com/Saugat-7/AI-Cloud-Cost-Detective.git) 
 
 ---
