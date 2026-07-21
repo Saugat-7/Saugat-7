@@ -26,4 +26,4 @@
 ---
 
 ## 🎓 Certifications
-[![Udemy Certificate](https://img.shields.io/badge/Udemy-Decoding%20DevOps%20Certificate-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](docs/certificates/UC-398102bc-3cce-4488-a8e7-3e2210182a7d.pdf)
+[![Udemy Certificate](https://img.shields.io/badge/Udemy-Decoding%20DevOps%20Certificate-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](docs/certificates/UC-398102bc-3cce-4488-a8e7-3e2210182a7d.pdf)[👤 View Project](https://github.com/Saugat-7/Decoding-DevOps-From-Basics-to-Advanced-Projects-with-AI.git)]
