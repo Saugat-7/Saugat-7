@@ -1,6 +1,6 @@
 # Hi, I'm Saugat! 👋
 
-#Aspiring DevOps Engineer & SecOps Enginner
+#Aspiring DevOps Engineer & SecOps Engineer
 
 🚀 DevOps Projects
 
